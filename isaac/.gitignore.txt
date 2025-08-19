@@ -1,0 +1,23 @@
+# Ignore the Python virtual environment
+/mcpi-venv
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build/distribution
+*.egg-info/
+build/
+dist/
+
+# Logs and SLURM outputs
+#*.out
+#*.err
+#logs/
+#partials/
+
+# OS junk
+.DS_Store
+Thumbs.db
