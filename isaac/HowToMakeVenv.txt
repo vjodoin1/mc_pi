@@ -1,0 +1,8 @@
+How to make a virtual environment:
+module avail Python
+module load Python/3.9.10-gcc
+
+python3 -m venv mcpi-venv
+source mcpi-venv/bin/activate
+pip install --upgrade pip
+pip install numpy

@@ -1,0 +1,5 @@
+Samples: 100000000
+Hits:    78535365
+pi ~     3.14141460
+Time:    1.766s
+/var/spool/slurm/spool/job4025018/slurm_script: line 25: fg: no job control
